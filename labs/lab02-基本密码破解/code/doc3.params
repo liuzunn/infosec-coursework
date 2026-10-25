@@ -1,0 +1,7 @@
+file=enc_3_x495.docx
+spinCount=1000
+keyBits=256
+hashAlgorithm=SHA512
+saltValue=ik/S576mEg2hLQhs9R+fZg==
+encryptedVerifierHashInput=5/ygiM7NIIdbezbficvKmA==
+encryptedVerifierHashValue=Drn65I5dedoodyHYycfxEpzcBXO+zW/THmMzMEqJhKXV5p7z2TG8YkzsVAOYejasX+869f7qKF0iIvoTEllUsQ==

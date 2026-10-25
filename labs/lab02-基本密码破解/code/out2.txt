@@ -1,0 +1,5 @@
+﻿doc: enc_3_x495.docx pwd: ytp spin: 5000
+salt: 3643d94de085c94e05b8ba35e18341f9 encIn len: 16 encHash len: 64
+单次密钥派生(5000次SHA512)耗时: 5.0 ms
+  尝试 iv=salt -> False  (bbead9cd7a7a6d40daf96b307c831821)
+  尝试 iv=sha512(salt+blk1)[:16] -> False  (9adc430bb1af978fac5cb83a5133c1f1)

@@ -1,0 +1,32 @@
+﻿CPU:
+
+Name                                            NumberOfCores NumberOfLogicalProcessors
+----                                            ------------- -------------------------
+AMD Ryzen 9 7945HX with Radeon Graphics                    16                        32
+
+
+
+OS:
+
+Caption                      Version    OSArchitecture
+-------                      -------    --------------
+Microsoft Windows 11 家庭版 中文版 10.0.26200 64-bit        
+
+
+
+SYSTEM:
+
+Manufacturer Model TotalPhysicalMemoryGB
+------------ ----- ---------------------
+LENOVO       82WM                   15.7
+
+
+
+NETADAPTER:
+
+Name                  MACAddress             Speed
+----                  ----------             -----
+RZ616 Wi-Fi 6E 160MHz XX-XX-XX-XX-XX-XX 1201000000
+
+
+

@@ -1,0 +1,4 @@
+﻿L=3 file=enc_3_x495.docx spin=1000 salt=ik/S576mEg2h 校验=True 单次派生=5.1ms
+L=4 file=enc_4_x5454.docx spin=1000 salt=CR4LuHfJ7lvH 校验=True 单次派生=0.0ms
+L=5 file=enc_5_x86492.docx spin=1000 salt=HJK1cj3F2rtM 校验=True 单次派生=2.0ms
+参数文件已写出

@@ -1,0 +1,7 @@
+file=enc_5_x86492.docx
+spinCount=1000
+keyBits=256
+hashAlgorithm=SHA512
+saltValue=HJK1cj3F2rtMcVQ6v/JwAA==
+encryptedVerifierHashInput=z83e78K7HGe9lOce/KY4sw==
+encryptedVerifierHashValue=PQC2ydaJvVn6shxNjsVBwwKMzvetdJZpElkvWQKsAsf66XcvC9T3uIL3wrpIZbRx4h3nhmMKCRcuSskdWQK/Wg==

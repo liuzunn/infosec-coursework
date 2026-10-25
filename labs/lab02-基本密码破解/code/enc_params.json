@@ -1,0 +1,47 @@
+{
+  "charset": "0123456789abcdefghijklmnopqrstuvwxyz",
+  "documents": [
+    {
+      "len": 3,
+      "password": "ytp",
+      "file": "enc_3_x495.docx",
+      "size": 42496,
+      "params": {
+        "spinCount": 1000,
+        "keyBits": 256,
+        "hashAlgorithm": "SHA512",
+        "saltValue": "ik/S576mEg2hLQhs9R+fZg==",
+        "encryptedVerifierHashInput": "5/ygiM7NIIdbezbficvKmA==",
+        "encryptedVerifierHashValue": "Drn65I5dedoodyHYycfxEpzcBXO+zW/THmMzMEqJhKXV5p7z2TG8YkzsVAOYejasX+869f7qKF0iIvoTEllUsQ=="
+      }
+    },
+    {
+      "len": 4,
+      "password": "5ypy",
+      "file": "enc_4_x5454.docx",
+      "size": 42496,
+      "params": {
+        "spinCount": 1000,
+        "keyBits": 256,
+        "hashAlgorithm": "SHA512",
+        "saltValue": "CR4LuHfJ7lvH73k+3lseHw==",
+        "encryptedVerifierHashInput": "lXFs9d9iVkhabae0cwR+mA==",
+        "encryptedVerifierHashValue": "ErpALV3tzWPepRoxrE8PBHi/hCH5Ic2ZHF+kY2uSOhiJ5DqE2j6mfeIvcwbgA+KF5nqsrFBYxxlj9o7Tv3y0YA=="
+      }
+    },
+    {
+      "len": 5,
+      "password": "s6ej2",
+      "file": "enc_5_x86492.docx",
+      "size": 42496,
+      "params": {
+        "spinCount": 1000,
+        "keyBits": 256,
+        "hashAlgorithm": "SHA512",
+        "saltValue": "HJK1cj3F2rtMcVQ6v/JwAA==",
+        "encryptedVerifierHashInput": "z83e78K7HGe9lOce/KY4sw==",
+        "encryptedVerifierHashValue": "PQC2ydaJvVn6shxNjsVBwwKMzvetdJZpElkvWQKsAsf66XcvC9T3uIL3wrpIZbRx4h3nhmMKCRcuSskdWQK/Wg=="
+      }
+    }
+  ]
+}

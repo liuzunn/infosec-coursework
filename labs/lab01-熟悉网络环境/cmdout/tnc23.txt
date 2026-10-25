@@ -1,0 +1,19 @@
+﻿
+
+ComputerName            : xxx.xxx.xxx.xxx
+RemoteAddress           : xxx.xxx.xxx.xxx
+RemotePort              : 23
+NameResolutionResults   : xxx.xxx.xxx.xxx
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : WLAN
+SourceAddress           : 10.119.xxx.xxx
+NetRoute (NextHop)      : 10.119.xxx.xxx
+PingSucceeded           : False
+PingReplyDetails (RTT)  : 0 ms
+TcpTestSucceeded        : False
+
+
+
+

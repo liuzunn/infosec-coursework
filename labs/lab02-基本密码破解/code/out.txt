@@ -1,0 +1,5 @@
+﻿明文文档: 37139 bytes
+L=3 pwd='ytp' file=enc_3_x495.docx size=42496 解密回环=True  spincount=1000
+L=4 pwd='5ypy' file=enc_4_x5454.docx size=42496 解密回环=True  spincount=1000
+L=5 pwd='s6ej2' file=enc_5_x86492.docx size=42496 解密回环=True  spincount=1000
+参数已导出 enc_params.json

@@ -1,0 +1,7 @@
+file=enc_4_x5454.docx
+spinCount=1000
+keyBits=256
+hashAlgorithm=SHA512
+saltValue=CR4LuHfJ7lvH73k+3lseHw==
+encryptedVerifierHashInput=lXFs9d9iVkhabae0cwR+mA==
+encryptedVerifierHashValue=ErpALV3tzWPepRoxrE8PBHi/hCH5Ic2ZHF+kY2uSOhiJ5DqE2j6mfeIvcwbgA+KF5nqsrFBYxxlj9o7Tv3y0YA==

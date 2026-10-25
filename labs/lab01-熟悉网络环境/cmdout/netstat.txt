@@ -1,0 +1,257 @@
+﻿
+活动连接
+
+  协议  本地地址          外部地址        状态
+  TCP    0.0.0.0:135            DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:445            DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:3306           DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:5040           DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:7680           DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:28252          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:33060          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49432          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49664          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49665          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49666          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49667          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49668          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    0.0.0.0:49743          DESKTOP-XXXXXXX:0      LISTENING
+  TCP    10.119.xxx.xxx:139       DESKTOP-XXXXXXX:0      LISTENING
+  TCP    10.119.xxx.xxx:49597     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:49842     101.126.4.125:https    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:50137     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:50356     tg-in-f102:https       SYN_SENT
+  TCP    10.119.xxx.xxx:51016     td-in-f113:https       SYN_SENT
+  TCP    10.119.xxx.xxx:51056     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:51058     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:51276     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:51278     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:51280     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:51928     103.212.12.45:3000     ESTABLISHED
+  TCP    10.119.xxx.xxx:52012     a23-56-0-15:https      CLOSE_WAIT
+  TCP    10.119.xxx.xxx:52156     td-in-f102:https       SYN_SENT
+  TCP    10.119.xxx.xxx:52304     ecs-124-70-93-189:11111  ESTABLISHED
+  TCP    10.119.xxx.xxx:52910     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:52914     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:52988     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:52991     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:52994     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:53045     td-in-f100:https       SYN_SENT
+  TCP    10.119.xxx.xxx:53383     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:53572     4.145.11.36:https      ESTABLISHED
+  TCP    10.119.xxx.xxx:53574     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:53576     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:53582     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:53684     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:53813     td-in-f113:https       SYN_SENT
+  TCP    10.119.xxx.xxx:53814     51.11.192.53:https     ESTABLISHED
+  TCP    10.119.xxx.xxx:54336     tc-in-f139:https       SYN_SENT
+  TCP    10.119.xxx.xxx:54513     4.145.79.81:https      ESTABLISHED
+  TCP    10.119.xxx.xxx:54558     tc-in-f102:https       SYN_SENT
+  TCP    10.119.xxx.xxx:54909     td-in-f113:https       SYN_SENT
+  TCP    10.119.xxx.xxx:55089     td-in-f102:https       SYN_SENT
+  TCP    10.119.xxx.xxx:55090     172.64.146.15:https    ESTABLISHED
+  TCP    10.119.xxx.xxx:55256     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:55258     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:55259     120.223.243.6:https    ESTABLISHED
+  TCP    10.119.xxx.xxx:55261     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:55263     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:55269     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:55271     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:55427     221.178.87.167:https   TIME_WAIT
+  TCP    10.119.xxx.xxx:56056     104.18.41.158:https    ESTABLISHED
+  TCP    10.119.xxx.xxx:56121     120.223.243.6:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:56125     57.155.142.104:https   ESTABLISHED
+  TCP    10.119.xxx.xxx:57229     4.145.11.36:https      ESTABLISHED
+  TCP    10.119.xxx.xxx:57553     td-in-f102:https       SYN_SENT
+  TCP    10.119.xxx.xxx:57554     120.223.243.6:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:57578     td-in-f113:https       SYN_SENT
+  TCP    10.119.xxx.xxx:57581     tc-in-f100:https       SYN_SENT
+  TCP    10.119.xxx.xxx:57582     tc-in-f100:https       SYN_SENT
+  TCP    10.119.xxx.xxx:57868     tc-in-f102:https       SYN_SENT
+  TCP    10.119.xxx.xxx:58542     183.204.106.184:https  ESTABLISHED
+  TCP    10.119.xxx.xxx:58666     td-in-f113:https       SYN_SENT
+  TCP    10.119.xxx.xxx:58668     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:58670     120.223.243.6:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:58672     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:58673     172.217.113.4:https    SYN_SENT
+  TCP    10.119.xxx.xxx:59306     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:59309     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:59454     fwdproxy-uco-011:https  SYN_SENT
+  TCP    10.119.xxx.xxx:59543     tg-in-f138:https       SYN_SENT
+  TCP    10.119.xxx.xxx:60983     a23-220-71-19:https    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60985     a23-220-71-19:https    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60986     a23-220-71-19:https    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60987     a23-220-71-19:https    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60988     a23-220-71-19:https    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60991     223.112.203.19:https   CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60996     223.112.203.19:https   CLOSE_WAIT
+  TCP    10.119.xxx.xxx:60999     223.112.203.19:https   CLOSE_WAIT
+  TCP    10.119.xxx.xxx:61000     223.112.203.19:https   CLOSE_WAIT
+  TCP    10.119.xxx.xxx:61003     223.112.203.19:https   CLOSE_WAIT
+  TCP    10.119.xxx.xxx:61196     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:62971     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:63159     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:63447     115.190.141.103:https  CLOSE_WAIT
+  TCP    10.119.xxx.xxx:63929     123.58.184.232:http    CLOSE_WAIT
+  TCP    10.119.xxx.xxx:64041     4.230.170.233:https    ESTABLISHED
+  TCP    10.119.xxx.xxx:64147     172.64.146.15:https    TIME_WAIT
+  TCP    10.119.xxx.xxx:64183     ec2-52-6-228-48:https  ESTABLISHED
+  TCP    10.119.xxx.xxx:64434     111.132.45.215:https   CLOSE_WAIT
+  TCP    10.119.xxx.xxx:64590     115.190.141.103:https  CLOSE_WAIT
+  TCP    10.119.xxx.xxx:64591     115.190.141.103:https  CLOSE_WAIT
+  TCP    10.119.xxx.xxx:65132     td-in-f113:https       SYN_SENT
+  TCP    10.119.xxx.xxx:65404     tc-in-f139:https       SYN_SENT
+  TCP    10.119.xxx.xxx:65425     120.223.243.6:https    ESTABLISHED
+  TCP    10.119.xxx.xxx:65426     199.96.61.1:https      SYN_SENT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65405  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65406  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65407  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65408  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65409  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65410  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65411  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65412  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65413  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65414  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65415  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65416  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65417  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65418  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65419  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65420  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65421  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65422  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65423  TIME_WAIT
+  TCP    127.0.0.1:3306         DESKTOP-XXXXXXX:65424  TIME_WAIT
+  TCP    127.0.0.1:4709         DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:9080         DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:12104        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:14013        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:14016        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:14019        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:14022        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:14023        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:19387        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:19387        DESKTOP-XXXXXXX:50858  ESTABLISHED
+  TCP    127.0.0.1:19387        DESKTOP-XXXXXXX:59030  ESTABLISHED
+  TCP    127.0.0.1:19387        DESKTOP-XXXXXXX:64040  ESTABLISHED
+  TCP    127.0.0.1:38624        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:50858        DESKTOP-XXXXXXX:19387  ESTABLISHED
+  TCP    127.0.0.1:55245        DESKTOP-XXXXXXX:19387  TIME_WAIT
+  TCP    127.0.0.1:56209        DESKTOP-XXXXXXX:56210  ESTABLISHED
+  TCP    127.0.0.1:56210        DESKTOP-XXXXXXX:56209  ESTABLISHED
+  TCP    127.0.0.1:56211        DESKTOP-XXXXXXX:56212  ESTABLISHED
+  TCP    127.0.0.1:56212        DESKTOP-XXXXXXX:56211  ESTABLISHED
+  TCP    127.0.0.1:59030        DESKTOP-XXXXXXX:19387  ESTABLISHED
+  TCP    127.0.0.1:59031        DESKTOP-XXXXXXX:59032  ESTABLISHED
+  TCP    127.0.0.1:59032        DESKTOP-XXXXXXX:59031  ESTABLISHED
+  TCP    127.0.0.1:59272        DESKTOP-XXXXXXX:0      LISTENING
+  TCP    127.0.0.1:60989        DESKTOP-XXXXXXX:60990  ESTABLISHED
+  TCP    127.0.0.1:60990        DESKTOP-XXXXXXX:60989  ESTABLISHED
+  TCP    127.0.0.1:60992        DESKTOP-XXXXXXX:60993  ESTABLISHED
+  TCP    127.0.0.1:60993        DESKTOP-XXXXXXX:60992  ESTABLISHED
+  TCP    127.0.0.1:60994        DESKTOP-XXXXXXX:60995  ESTABLISHED
+  TCP    127.0.0.1:60995        DESKTOP-XXXXXXX:60994  ESTABLISHED
+  TCP    127.0.0.1:60997        DESKTOP-XXXXXXX:60998  ESTABLISHED
+  TCP    127.0.0.1:60998        DESKTOP-XXXXXXX:60997  ESTABLISHED
+  TCP    127.0.0.1:61001        DESKTOP-XXXXXXX:61002  ESTABLISHED
+  TCP    127.0.0.1:61002        DESKTOP-XXXXXXX:61001  ESTABLISHED
+  TCP    127.0.0.1:64040        DESKTOP-XXXXXXX:19387  ESTABLISHED
+  TCP    127.0.0.1:65405        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65406        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65407        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65408        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65409        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65410        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65411        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65412        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65413        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65414        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65415        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65416        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65417        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65418        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65419        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65420        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65421        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65422        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65423        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    127.0.0.1:65424        DESKTOP-XXXXXXX:3306   TIME_WAIT
+  TCP    [::]:135               DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:445               DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:3306              DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:7680              DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:33060             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49432             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49664             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49665             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49666             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49667             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49668             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::]:49743             DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [::1]:42050            DESKTOP-XXXXXXX:0      LISTENING
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:49317  [2407:c080:1200:1cce:8c6b:fb28:2b07:8395]:https  ESTABLISHED
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:50748  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:50817  [2406:d440:10d:901:658:ce9f:554:6ef9]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:51165  [2409:8c02:248:600::6f20:e229]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:51266  [2409:8087:2:11::24]:http  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:52285  [2406:d440:10d:902:0:f2e3:ec61:5a71]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:54190  [2406:d440:10d:901:658:ce9f:554:6ef9]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:55694  [2001::c73b:94d1]:https  SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:55756  tc-in-f188:5228        ESTABLISHED
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56733  [2409:8c04:1111:5:1::eb]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56900  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56901  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56904  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56905  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56912  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56913  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56914  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56928  [2001:4860:4840:400::]:https  SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56929  [2001:4860:4840:400::]:https  SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56936  [2a03:2880:f127:283:face:b00c:0:25de]:https  SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:56983  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:57800  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:59067  [2603:1030:10:1d::af]:https  ESTABLISHED
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:59492  tc-in-f188:5228        ESTABLISHED
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:60634  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:61084  [2409:8c04:1111:5:1::eb]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:61085  [2409:8c04:1111:5:1::eb]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:61688  tc-in-f101:https       SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:61718  tc-in-f188:5228        ESTABLISHED
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:62098  [2409:8c1e:75b0:4002::1f]:8080  ESTABLISHED
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:62627  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:62874  [2001::c73b:94d1]:https  SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:63278  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:63280  [2603:1061:14:184::1]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:63556  tc-in-f101:https       SYN_SENT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:63734  [2603:1047:1:168::81]:https  TIME_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:65133  [2409:8c04:1111:5:1::eb]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:65134  [2409:8c04:1111:5:1::eb]:https  CLOSE_WAIT
+  TCP    [240a:4296:1a00:211f:8898:c48b:d115:d5bd]:65198  [2407:c080:1200:1cce:8c6b:fb28:2b07:8395]:https  ESTABLISHED
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:62809          *:*                    
+  UDP    10.119.xxx.xxx:137       *:*                    
+  UDP    10.119.xxx.xxx:138       *:*                    
+  UDP    10.119.xxx.xxx:1900      *:*                    
+  UDP    10.119.xxx.xxx:28252     *:*                    
+  UDP    10.119.xxx.xxx:53328     *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:10010        *:*                    
+  UDP    127.0.0.1:10011        *:*                    
+  UDP    127.0.0.1:49664        127.0.0.1:49664        
+  UDP    127.0.0.1:49667        *:*                    
+  UDP    127.0.0.1:53329        *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:62809             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:53327            *:*                    
+  UDP    [fe80::82f0:dfb3:5297:88fd%15]:1900  *:*                    
+  UDP    [fe80::82f0:dfb3:5297:88fd%15]:53326  *:*                    

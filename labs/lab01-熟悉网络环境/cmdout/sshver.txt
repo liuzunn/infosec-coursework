@@ -1,0 +1,8 @@
+﻿ssh.exe : OpenSSH_for_Windows_9.5p2, LibreSSL 3.8.2
+所在位置 C:\Users\LZ\Desktop\信息安全实验\_run_cmds2.ps1:13 字符: 21
++ SaveText "sshver" ((& ssh -V 2>&1 | Out-String))
++                     ~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (OpenSSH_for_Win... LibreSSL 3.8.2:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+

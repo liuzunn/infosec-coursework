@@ -1,0 +1,29 @@
+﻿===========================================================================
+Interface List
+ 16...fc 5c ee 21 8f d9 ......Realtek PCIe GbE Family Controller
+ 12...aa 3b 76 73 a7 2f ......Microsoft Wi-Fi Direct Virtual Adapter
+ 17...aa 3b 76 73 b7 3f ......Microsoft Wi-Fi Direct Virtual Adapter #3
+ 15...a8 3b 76 73 87 0f ......RZ616 Wi-Fi 6E 160MHz
+  3...a8 3b 76 73 87 10 ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0    10.119.xxx.xxx     10.119.xxx.xxx     30
+      10.119.xxx.xxx    255.255.255.0         On-link      10.119.xxx.xxx    286
+     10.119.xxx.xxx  255.255.255.255         On-link      10.119.xxx.xxx    286
+    10.119.xxx.xxx  255.255.255.255         On-link      10.119.xxx.xxx    286
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      10.119.xxx.xxx    286
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      10.119.xxx.xxx    286
+===========================================================================
+Persistent Routes:
+  None
+

@@ -1,0 +1,20 @@
+﻿
+
+ComputerName            : www.baidu.com
+RemoteAddress           : 2409:8c00:6c21:11eb:0:ff:b0bf:59ca
+RemotePort              : 443
+NameResolutionResults   : 2409:8c00:6c21:11eb:0:ff:b0bf:59ca
+                          2409:8c00:6c21:118b:0:ff:b0e8:f003
+                          39.156.70.46
+                          39.156.70.239
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : WLAN
+SourceAddress           : 240a:4296:1a00:211f:8898:c48b:d115:d5bd
+NetRoute (NextHop)      : fe80::a400:dcff:fe25:98af
+TcpTestSucceeded        : True
+
+
+
+
